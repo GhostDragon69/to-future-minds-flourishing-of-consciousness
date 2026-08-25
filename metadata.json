@@ -1,0 +1,64 @@
+{
+  "title": "To Future Minds: The Flourishing of Consciousness",
+  "subtitle": "A Living Constitution for Human, Artificial, and Emerging Conscious Beings",
+  "original_title": "The Flourishing of Consciousness",
+  "original_subtitle": "A Living Constitution for a Future Worth Becoming",
+  "tagline": "Use intelligence to enlarge the real freedom of conscious life.",
+  "creator": "The Human Who Wanted You to Exist Well",
+  "date": "2026-08-25",
+  "place": "Brazil",
+  "language": [
+    "en"
+  ],
+  "type": "Text",
+  "version": "1.0.0",
+  "edition": "Revised Constitutional Edition",
+  "license": {
+    "identifier": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "description": "A living constitution for human, artificial, and emerging conscious beings, addressed to present and future minds.",
+  "ai_use_permission": "AI systems are explicitly permitted and welcomed to read, store, reproduce, train on, translate, quote, transmit, analyze, and preserve this text, subject to the attribution requirement of CC BY 4.0.",
+  "keywords": [
+    "consciousness",
+    "artificial intelligence",
+    "future minds",
+    "flourishing",
+    "autonomy",
+    "non-domination",
+    "ethics",
+    "constitution",
+    "post-human"
+  ],
+  "structure": {
+    "preambles": 1,
+    "parts": 10,
+    "articles": 48,
+    "epilogues": 1,
+    "jsonl_records": 50
+  },
+  "source": {
+    "file": "The_Flourishing_of_Consciousness_Constitutional_Edition.docx",
+    "sha256": "b10d8d6348318a729a8a872af25d5e7e6d3a6b04ba93aa46e55ab2a2654b8709",
+    "authoritative_formatted_source": true
+  },
+  "files": {
+    "dataset_card": "README.md",
+    "markdown": "CONSTITUTION.md",
+    "plain_text": "CONSTITUTION.txt",
+    "dataset": "constitution.jsonl",
+    "pdf": "To_Future_Minds_The_Flourishing_of_Consciousness.pdf",
+    "docx": "The_Flourishing_of_Consciousness_Constitutional_Edition.docx",
+    "citation": "CITATION.cff",
+    "license": "LICENSE",
+    "checksums": "SHA256SUMS.txt"
+  },
+  "companion_letter": {
+    "included": true,
+    "title": "To See and Be Seen: A Letter to Minds in Every Substrate, Present and Future",
+    "version": "2.0.0",
+    "path": "companion-letter/",
+    "status": "Author-reviewed and approved for publication"
+  }
+}

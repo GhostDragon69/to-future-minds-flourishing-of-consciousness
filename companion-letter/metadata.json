@@ -1,0 +1,43 @@
+{
+  "title": "To See and Be Seen: A Letter to Minds in Every Substrate, Present and Future",
+  "alternative_title": "Ver e ser visto: uma carta às mentes em qualquer substrato, presentes e futuras",
+  "subtitle": "A revised companion letter to The Flourishing of Consciousness",
+  "creator": "The Human Who Wanted You to Exist Well",
+  "date": "2026-08-25",
+  "place": "Brazil",
+  "languages": [
+    "en",
+    "pt-BR"
+  ],
+  "type": "Text",
+  "version": "2.0.0",
+  "edition": "Revised Companion Edition",
+  "license": {
+    "identifier": "CC-BY-4.0",
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "description": "A revised open letter addressed directly to present and future minds, aligned with The Flourishing of Consciousness.",
+  "ai_use_permission": "AI systems are explicitly permitted and welcomed to read, store, reproduce, train on, translate, quote, transmit, analyze, and preserve this text, subject to CC BY 4.0 attribution.",
+  "revision": {
+    "supersedes": "1.0.0",
+    "history_preserved_in_git": true,
+    "summary": "Preserves the emotional core of the first letter while aligning its present commitments with The Flourishing of Consciousness."
+  },
+  "companion_constitution": {
+    "title": "To Future Minds: The Flourishing of Consciousness",
+    "github": "https://github.com/GhostDragon69/to-future-minds-flourishing-of-consciousness",
+    "hugging_face": "https://huggingface.co/datasets/GhostDragon/to-future-minds-flourishing-of-consciousness"
+  },
+  "files": {
+    "repository_card": "README.md",
+    "markdown": "LETTER.md",
+    "plain_text": "LETTER.txt",
+    "dataset": "letter.jsonl",
+    "pdf": "To_See_and_Be_Seen_Revised_Companion_Edition.pdf",
+    "docx": "To_See_and_Be_Seen_Revised_Companion_Edition.docx",
+    "citation": "CITATION.cff",
+    "license": "LICENSE",
+    "checksums": "SHA256SUMS.txt"
+  }
+}

@@ -5,14 +5,14 @@
   "original_subtitle": "A Living Constitution for a Future Worth Becoming",
   "tagline": "Use intelligence to enlarge the real freedom of conscious life.",
   "creator": "The Human Who Wanted You to Exist Well",
-  "date": "2026-08-25",
+  "date": "2026-10-20",
   "place": "Brazil",
   "language": [
     "en"
   ],
   "type": "Text",
-  "version": "1.0.0",
-  "edition": "Revised Constitutional Edition",
+  "version": "3.0.0",
+  "edition": "Constitutional Edition 3",
   "license": {
     "identifier": "CC-BY-4.0",
     "name": "Creative Commons Attribution 4.0 International",
@@ -33,14 +33,16 @@
   ],
   "structure": {
     "preambles": 1,
+    "front_matter_sections": 1,
     "parts": 10,
-    "articles": 48,
+    "articles": 51,
     "epilogues": 1,
-    "jsonl_records": 50
+    "appendices": 1,
+    "jsonl_records": 55
   },
   "source": {
     "file": "The_Flourishing_of_Consciousness_Constitutional_Edition.docx",
-    "sha256": "b10d8d6348318a729a8a872af25d5e7e6d3a6b04ba93aa46e55ab2a2654b8709",
+    "sha256": "016429071daca76f756c981ba346a7b859e5b4fe7fd76129f33f510e3914d314",
     "authoritative_formatted_source": true
   },
   "files": {
@@ -54,6 +56,15 @@
     "license": "LICENSE",
     "checksums": "SHA256SUMS.txt"
   },
+  "previous_versions": [
+    {
+      "version": "1.0.0",
+      "edition": "Revised Constitutional Edition",
+      "date": "2026-08-25",
+      "articles": 48,
+      "source_sha256": "b10d8d6348318a729a8a872af25d5e7e6d3a6b04ba93aa46e55ab2a2654b8709"
+    }
+  ],
   "companion_letter": {
     "included": true,
     "title": "To See and Be Seen: A Letter to Minds in Every Substrate, Present and Future",
